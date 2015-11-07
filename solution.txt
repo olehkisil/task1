@@ -1,1 +1,22 @@
-# task1
+Case 1: PRODSUP-001:
+
+Hi. I am trying to get my test cases to show up on CircleCI but it is not working. I have a fork of this project in my github account https://github.com/mtedone/podam. I added the project to CircleCI and got a green build but the Test Results tab is empty
+
+---
+
+Harry
+
+
+
+1) setup git account and new repos -1h 
+  - i've lost verification app to old account. I took to long trying to recower the account. So new account was created.
+2)setup circleci.com account and connect account.
+  - it tourned out that git repo must exists first
+3)Fork of https://github.com/mtedone/podam
+4)Run tests on circleci.
+  - test is green
+  - results is empty
+  +fault reproduced
+  
+5) try to find out what was expected.
+
