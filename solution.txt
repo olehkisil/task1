@@ -19,4 +19,13 @@ Harry
   +fault reproduced
   
 5) try to find out what was expected.
+- run with and without paralelism = the same result
+-check if circle.yml exists
+  - there is Circle.yml is it ok ?
+  - try to rename to circle.yml
+  
+    
+
+
+
 
