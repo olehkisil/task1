@@ -23,6 +23,9 @@ Harry
 -check if circle.yml exists
   - there is Circle.yml is it ok ?
   - try to rename to circle.yml
+6)hm, result == no tests.Try to fix circle.yml
+--will continue tomorrow. it's time to dring ;)
+
   
     
 
