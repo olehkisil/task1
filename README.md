@@ -1,4 +1,4 @@
-# Read task files
+# Solution
 
 
 Case 1: PRODSUP-001:
@@ -20,7 +20,7 @@ Case 2: PRODSUP-002:
 Case 3: PRODSUP-003:
 ====================
 * [mail-3.txt](https://github.com/olehkisil/task1/blob/master/mail-3.txt)
-''''
+
 
 ====================================
 [![video for Case 1 and Case 2](https://github.com/olehkisil/task1/blob/master/1and2.webm)]        (https://github.com/olehkisil/task1/blob/master/1and2.webm)
