@@ -3,21 +3,21 @@
 
 Case 1: PRODSUP-001:
 ====================
-* mail-1.txt
-* steps-1.txt
-* 1and2.webm
+* [mail-1.txt](https://github.com/olehkisil/task1/blob/master/mail-1.txt)
+* [steps-1.txt](https://github.com/olehkisil/task1/blob/master/steps-1.txt)
+* [1and2.webm](https://github.com/olehkisil/task1/blob/master/1and2.webm)
 
 
 Case 2: PRODSUP-002:
 ====================
-* mail-2.txt
-* steps-2.txt
-* 1and2.webm (from 9:28)
+* [mail-2.txt](https://github.com/olehkisil/task1/blob/master/mail-2.txt)
+* [steps-2.txt](https://github.com/olehkisil/task1/blob/master/steps-2.txt)
+* [1and2.webm (from 9:28)](https://github.com/olehkisil/task1/blob/master/1and2.webm)
 
 
 Case 3: PRODSUP-003:
 ====================
-* mail-3.txt
+* [mail-3.txt](https://github.com/olehkisil/task1/blob/master/mail-3.txt)
 ''''
 
 ====================================
