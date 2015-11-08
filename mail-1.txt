@@ -16,7 +16,24 @@ Hi Harry,
 I've checked your issue and here is my conclusion:
 1) CircleCI is case-sensetive , so you need to rename your Circle.yml to  circle.yml
 2) You need to enable Maven Surefire Plugin in pov.xml file in root dir
-3) You need to add 
+just below remove code at line 279:
+<configuration>
+   <skip>true</skip>
+</configuration>
+
+3) You need clear you circle.yml file and add below lines:
+test:
+  post:
+    - mkdir -p $CIRCLE_TEST_REPORTS/junit/
+    - find . -type f -regex ".*/target/surefire-reports/.*xml" -exec cp {} $CIRCLE_TEST_REPORTS/junit/ \;
+
+
+
+
+More information is available here:
+https://circleci.com/docs/test-metadata#metadata-collection-in-custom-test-steps
+
+You also may check my changes at https://github.com/olehkisil/podam
 
 BR,Oleh
 
