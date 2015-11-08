@@ -20,6 +20,7 @@ What do you mean "Results tab is empty" ?
 Did you receive a mail with results from builds@circleci.com ?
 What browser do you use ?
 What result you expect ?
+Does your test generates xml reports in */target/surefire-reports/ folder when you run tests localy?
 
 BTW: CircleCI is case-sensitive and if you want to have custom test execution you should rename your file Circle.yml to circle.yml.
 
