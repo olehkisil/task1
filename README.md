@@ -18,7 +18,8 @@ Case 2: PRODSUP-002:
 Case 3: PRODSUP-003:
 ====================
 * mail-3.txt
-
+''
+(https://github.com/olehkisil/task1/blob/master/1and2.webm)
 ======================================
 *gitHub:
 https://github.com/olehkisil
