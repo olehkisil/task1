@@ -14,7 +14,7 @@ test:
 
 gives no result
 
-9)during creation of a video I've mentioned that there is a link to maven plugin that generates ertifacts
+9)during creation of a video I've mentioned that there is a link to maven plugin that generates artifacts
 
 10)update  pom.xml
  
