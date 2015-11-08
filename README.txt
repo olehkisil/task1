@@ -81,7 +81,7 @@ Jolene
 
 
 ==========================================================
-Hi Joline,
+Hi Jolene,
 
 I'm investigating your issue and I've found something unclear for me.
 Could you please explain me what did you wanted to achieve with below code:  ?
