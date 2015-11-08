@@ -15,7 +15,7 @@ Could you please explain me what did you wanted to achieve with below code:  ?
 
 commons-csv/src/main/java/org/apache/commons/csv/CSVFormat.java  : 795
 ----------------------------------------------------------------
- /**
+/**
 * Verifies the consistency of the parameters and throws an IllegalArgumentException if necessary.
 *
 * @throws IllegalArgumentException
@@ -33,6 +33,8 @@ for (int i=0; i<20*60*60; i++) {
 The execution stucks on this part of code.
 I've removed it just for troubleshoot and tests pass.
 Please ensure that it works as expected.
+
+Actually without change your code will also work. But test execution will take very very long time. 
 
 RB,Oleh
 
