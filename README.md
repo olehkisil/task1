@@ -19,7 +19,11 @@ Case 3: PRODSUP-003:
 ====================
 * mail-3.txt
 ''
-(https://github.com/olehkisil/task1/blob/master/1and2.webm)
+()
+
+[![video](https://github.com/olehkisil/task1/blob/master/1and2.webm)]
+         (https://github.com/olehkisil/task1/blob/master/1and2.webm)
+
 ======================================
 *gitHub:
 https://github.com/olehkisil
