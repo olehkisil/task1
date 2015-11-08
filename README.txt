@@ -20,7 +20,7 @@ Case 1: PRODSUP-001:
 Hi Harry,
 
 I've checked your issue and here is my conclusion:
-1) CircleCI is case-sensetive , so you need to rename your Circle.yml to  circle.yml
+1) CircleCI is case-sensitive , so you need to rename your Circle.yml to  circle.yml
 2) You need to enable Maven Surefire Plugin in pov.xml file in root dir
 just remove below code at line 279:
 
