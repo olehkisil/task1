@@ -13,16 +13,10 @@ Case 1: PRODSUP-001:
 
 Hi Harry,
 
-I've checked your issue and it sounds not clear for me.
-Please check (expand) "$ mvn integration-test" section. At the end it's stated that "Tests run: 183, Failures: 0, Errors: 0, Skipped: 0"
-
-What do you mean "Results tab is empty" ?
-Did you receive a mail with results from builds@circleci.com ?
-What browser do you use ?
-What result you expect ?
-Does your test generates xml reports in */target/surefire-reports/ folder when you run tests localy?
-
-BTW: CircleCI is case-sensitive and if you want to have custom test execution you should rename your file Circle.yml to circle.yml.
+I've checked your issue and here is my conclusion:
+1) CircleCI is case-sensetive , so you need to rename your Circle.yml to  circle.yml
+2) You need to enable Maven Surefire Plugin in pov.xml file in root dir
+3) You need to add 
 
 BR,Oleh
 
