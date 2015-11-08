@@ -1,0 +1,26 @@
+Case 1: PRODSUP-001:
+
+Hi Harry,
+
+I've checked your issue and it sounds not clear for me.
+Please check (expand) "$ mvn integration-test" section. At the end it's stated that "Tests run: 183, Failures: 0, Errors: 0, Skipped: 0"
+
+What do you mean "Results tab is empty" ?
+Did you receive a mail with results from builds@circleci.com ?
+What browser do you use ?
+
+
+BTW: CircleCI is case-sensative and if you want to have custom test execution you should rename your file Circle.yml to circle.yml.
+
+BR,Oleh
+
+
+
+Case 1: PRODSUP-001:
+
+
+Hi. I am trying to get my test cases to show up on CircleCI but it is not working. I have a fork of this project in my github account https://github.com/mtedone/podam. I added the project to CircleCI and got a green build but the Test Results tab is empty
+
+---
+
+Harry
